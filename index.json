@@ -1,0 +1,17 @@
+{
+  "logs": [
+    {
+      "method": "POST", 
+      "url": "http://localhost:8081", 
+      "time": 12,
+      "date": "2020-18-03T00:00:00Z"
+      
+    },
+    {
+      "method": "DELETE", 
+      "url": "http://localhost:8081", 
+      "time": 5,
+      "date": "2020-17-03T00:00:00Z"
+    }
+  ]
+}
