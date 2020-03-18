@@ -47,7 +47,7 @@ let dateRange = ( startDate, endDate ) => {
       for ( let i = 0; i < logs[key].length; i++) {
 
         let givenDate = new Date(logs[key][i]['time']);
-        startDate = new Date( startDate ) ;
+        startDate = new Date( startDate );
         endDate = new Date( endDate );
         
         if ( startDate <= givenDate && givenDate <= endDate ) {
@@ -59,6 +59,6 @@ let dateRange = ( startDate, endDate ) => {
   } 
 };
 
-dateRange( '2020-03-06',  '2020-03-18');
+dateRange( '2020-03-06',  '2020-03-22'); 
 
 
