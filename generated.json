@@ -1,1 +1,59 @@
-{"logs":[{"method":"GET","url":"/favicon.ico"}]}
+{
+  "logs": [
+    {
+      "method": "GET",
+      "url": "/",
+      "time": 1584565810135
+    },
+    {
+      "method": "GET",
+      "url": "/favicon.ico",
+      "time": 1584565810246
+    },
+    {
+      "method": "POST",
+      "url": "/",
+      "time": 1584565815349
+    },
+    {
+      "method": "DELETE",
+      "url": "/",
+      "time": 1584565818080
+    },
+    {
+      "method": "POST",
+      "url": "/",
+      "time": 1584565820341
+    },
+    {
+      "method": "GET",
+      "url": "/",
+      "time": 1584566115171
+    },
+    {
+      "method": "GET",
+      "url": "/favicon.ico",
+      "time": 1584566115260
+    },
+    {
+      "method": "GET",
+      "url": "/",
+      "time": 1584566117597
+    },
+    {
+      "method": "GET",
+      "url": "/favicon.ico",
+      "time": 1584566117710
+    },
+    {
+      "method": "POST",
+      "url": "/",
+      "time": 1584566122615
+    },
+    {
+      "method": "DELETE",
+      "url": "/",
+      "time": 1584566124907
+    }
+  ]
+}
